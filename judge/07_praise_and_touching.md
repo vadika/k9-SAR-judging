@@ -21,7 +21,7 @@
 Rule: **touching the D during nose work and UO/GW is prohibited — except for praise.** First offence = warning (−5 pts); second = phase terminated.
 
 - Physical guidance, positioning, steering by hand = **Warning**
-- **Praise** (verbal or physical) = explicitly permitted at any time
+- **Praise** (verbal or physical) = the one permitted form of touching — but timing still applies (see Praise section above): UO/GW only after the exercise ends; nosework not during active search
 - At alert conclusion, after judge calls DH to dog: physical contact is part of the prescribed ending procedure (taking off leash, leading to down) — implicitly permitted as required procedure, not guidance during work.
 - **Giving water — UO/GW:** not permitted during exercises. **Nosework:** permitted with TJ permission — DH must request it; judge decides the moment.
 - **Tracking exception:** DH may also clean the dog's head, eyes, and nose during work — explicitly permitted.
