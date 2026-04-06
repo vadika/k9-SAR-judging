@@ -14,3 +14,4 @@ A practical reference for TJ/TC — what to watch for, what kills the score, wha
 | [05_outcomes_and_scoring.md](judge/05_outcomes_and_scoring.md) | 0 pts vs Insufficient, Warning/Termination/Disqualification, scoring reminders |
 | [06_leash_rules.md](judge/06_leash_rules.md) | Leash status at every phase — UO/GW and all nosework disciplines |
 | [07_praise_and_touching.md](judge/07_praise_and_touching.md) | Praise rules, touching prohibition, water, start-line handling gap |
+| [ABBREVIATIONS.md](judge/ABBREVIATIONS.md) | All abbreviations used across the document set |
