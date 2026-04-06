@@ -5,7 +5,7 @@
 
 ## Setup
 - Two circles: inner radius 2.0 m (group stays inside), outer radius 3.0 m (DH walks along outer).
-- Group: exactly **3 persons**; only the second test participant's dog is in the group (on leash), serving as the group dog.
+- Group: exactly **3 persons** + **one of the two tested dogs** (on leash, serving as group dog). The dogs alternate roles — one is tested while the other is in the group, then they swap.
 - D remains **on leash** throughout.
 
 ## Permitted AC/VC
